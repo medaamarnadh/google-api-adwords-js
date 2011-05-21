@@ -147,5 +147,5 @@ Use the issue tracker [http://code.google.com/p/google-api-adwords-js/issues/lis
 [http://code.google.com/closure/ Google Closure library] - Included in the js folder.
 
 ==Author==
-  *anash.p.ommen (Anash P. Oommen)
-  *david.t (David Torres)
+  * anash.p.oommen (Anash P. Oommen)
+  * david.t (David Torres)
