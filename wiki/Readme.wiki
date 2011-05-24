@@ -51,7 +51,7 @@ examples.
 5) Click on any of the examples and enjoy!
 
 
-==Transpost mechanisms==
+==Transport mechanisms==
 
 Along with the library a set of transport implementations are provided to allow you develop against the library on different enviroments. The transport in use is configured through the js/adwordsapi/src/config.js file by its HttpWebTransport property. Some transports require extra settings that get configured via its HttpWebTransportSettings property.
 
