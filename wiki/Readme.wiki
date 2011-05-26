@@ -137,7 +137,7 @@ Alternative with the library we provide a set of compilation scripts (based in t
 
 In order to use the compilation scripts you require to have Python and Java installed. See tools/scripts/build.sh for more information on compiling your own files.
 
-===Security limitations
+==Security limitations==
 
 JavaScript is not very good at keeping keys and values private, since you could easily view them by doing a view source from the browser. The AdWords API requires three private items - your AdWords account email and password, and the developer token. If you want to store private items on the client side, make sure you keep them encrypted.
 
