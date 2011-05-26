@@ -137,6 +137,13 @@ Alternative with the library we provide a set of compilation scripts (based in t
 
 In order to use the compilation scripts you require to have Python and Java installed. See tools/scripts/build.sh for more information on compiling your own files.
 
+===Security limitations
+
+JavaScript is not very good at keeping keys and values private, since you could easily view them by doing a view source from the browser. The AdWords API requires three private items - your AdWords account email and password, and the developer token. If you want to store private items on the client side, make sure you keep them encrypted.
+
+The client library supports only ClientLogin based authentication today. You could enable 2 Step Verification in your accounts and generate an application-specific password for your JavaScript application to make AuthToken based authentication more secure.
+
+
 ==Where do I submit bug reports and/or feature requests?==
 
 Use the issue tracker [http://code.google.com/p/google-api-adwords-js/issues/list here]
