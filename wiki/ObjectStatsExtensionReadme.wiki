@@ -1,4 +1,4 @@
-#summary Readme for AdWords API Object Stats Extension.
+#summary README for AdWords API Object Stats Extension.
 
 =AdWords API Object Statistics Extension=
 
