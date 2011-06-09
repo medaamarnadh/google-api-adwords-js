@@ -1,3 +1,4 @@
+#summary README for AdWords API JavaScript Client Library
 #labels Featured,Phase-Implementation,Phase-Deploy
 =AdWords API JavaScript Client Library=
 
