@@ -1,5 +1,6 @@
-=AdWords API Object Statistics Extension=
 #summary Readme for AdWords API Object Stats Extension.
+
+=AdWords API Object Statistics Extension=
 
 The Object Stats Extension demonstrates the use of the AdWords API
 JavaScript Client Library in a Chrome extension environment.
