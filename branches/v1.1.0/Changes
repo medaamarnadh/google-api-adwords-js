@@ -1,0 +1,11 @@
+1.1.0
+- Support for AdWords API v201109 and code examples.
+- Support for ad-hoc reports download.
+
+1.0.1
+- Miscellaneous documentation fixes.
+- Adding default user agent identifiers to SOAP and HTTP layers.
+
+1.0.0
+- Initial release.
+- Support for AdWords API v20103, v201008 and code examples.
